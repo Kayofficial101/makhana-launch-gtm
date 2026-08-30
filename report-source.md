@@ -1,6 +1,6 @@
 # Makhana snack launch GTM
 
-## Decision note
+## Recommendation
 
 I would fund a **12-week Delhi NCR pilot**, capped at ₹30 lakh, and hold back the rest. The launch would begin with two familiar flavours and two pack sizes. It would not begin with 1,000 dark stores, five adventurous flavours or a national media plan.
 
@@ -23,7 +23,7 @@ There was a second problem. The ₹3.5 crore raise was almost exactly 18 months 
 
 The detailed arithmetic is in [the audit](legacy/what-i-would-change.md).
 
-## GTM objective
+## What the pilot must prove
 
 Within 12 weeks, find a product-price combination that reaches taste parity with the control, clears the price-intent gate, produces at least 20% identifiable eight-week repeat and has positive second-order CM2. Distribution does not widen if those conditions are not met.
 
@@ -121,7 +121,7 @@ The detailed recovery table and metrics are in [conversion-and-recovery.md](stra
 
 - 60 structured interviews
 - competitor pack teardown and label review
-- monadic test of ₹129, ₹149 and ₹169 for the core pack
+- price test of ₹129, ₹149 and ₹169 for the core pack, with each respondent shown one price
 - three manufacturer quotes using the same specification
 - FSSAI, HSN and claims review with the chosen manufacturer and advisers
 
@@ -220,7 +220,7 @@ Followers, impressions and total GMV are diagnostic at best. They do not replace
 | Unsupported claim | Label or ad cannot be substantiated | Lab report and regulatory review before print |
 | Supply concentration | Delay or inconsistent grade | Approved backup supplier and incoming QC |
 
-## What I think
+## My conclusion
 
 Makhana is not short of awareness anymore. The harder job is giving the buyer a reason to choose one pack twice while paying enough to absorb an expensive agricultural input and convenience-channel costs.
 
