@@ -1,0 +1,12 @@
+brand,product,flavour,pack_g,mrp_inr,observed_price_inr,channel,observed_on,source_url,note
+Too Yumm,Makhana,Assorted listing,16,50,38,Brand site and BigBasket,2026-08-30,https://tooyumm.com/collections/makhana,"Pack size cross-checked on BigBasket; price can change"
+Farmley,Makhana,Assorted listing,20,50,37.50,BigBasket,2026-08-30,https://www.bigbasket.com/pb/farmley/makhana/,"Trial pack"
+Farmley,Makhana,Assorted listing,77,239,186.42,BigBasket,2026-08-30,https://www.bigbasket.com/pb/farmley/makhana/,"Larger premium pack"
+Farmley,Raw Makhana,Plain,60,149,111.75,BigBasket,2026-08-30,https://www.bigbasket.com/pb/farmley/makhana/,"Not directly comparable with flavoured product"
+Mr Makhana,Makhana,Assorted listing,55,150,124.50,Brand site,2026-08-30,https://mrmakhana.com/collections/mr-makhana,"Core pack"
+Mr Makhana,Makhana,Assorted listing,80,230,184,Brand site,2026-08-30,https://mrmakhana.com/collections/mr-makhana,"Larger pack"
+Happilo,Makhana,Assorted listing,20,50,43.70,BigBasket,2026-08-30,https://www.bigbasket.com/ps/?q=happilo%20makhana,"Trial pack; listing prices vary"
+Happilo,Makhana,Assorted listing,55,139,121.95,BigBasket,2026-08-30,https://www.bigbasket.com/ps/?q=happilo%20makhana,"Core pack"
+MOM,Makhana,Assorted listing,52,140,105,BigBasket,2026-08-30,https://www.bigbasket.com/ps/?q=mom%20makhana,"Core pack"
+Taali,Makhana,Assorted listing,60,141,100.11,BigBasket,2026-08-30,https://www.bigbasket.com/ps/?q=taali%20makhana,"Core pack"
+

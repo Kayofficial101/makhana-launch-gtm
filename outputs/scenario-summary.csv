@@ -1,0 +1,7 @@
+scenario,pack,mrp_inr,selling_price_inr,ex_gst_sales_inr,channel_cost_inr,product_cost_inr,cm1_inr,cm2_inr,cm2_margin
+downside,Trial pack,50.0,47.5,42.41,16.12,29.0,-2.71,-11.71,-0.276
+downside,Core pack,149.0,134.1,119.73,45.5,66.0,8.23,-8.77,-0.0732
+base,Trial pack,50.0,48.5,43.3,13.86,25.0,4.45,-2.55,-0.059
+base,Core pack,149.0,141.55,126.38,37.92,57.5,30.97,17.97,0.1422
+upside,Trial pack,50.0,50.0,44.64,11.16,22.0,11.48,6.48,0.1452
+upside,Core pack,149.0,149.0,133.04,33.26,50.0,49.78,40.78,0.3065

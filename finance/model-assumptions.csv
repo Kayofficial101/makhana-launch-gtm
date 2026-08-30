@@ -1,0 +1,20 @@
+section,input,downside,base,upside,unit,note
+Trial pack,MRP,50,50,50,INR,Planning assumption
+Trial pack,Consumer discount,0.05,0.03,0,share of MRP,Planning assumption
+Trial pack,GST,0.12,0.12,0.12,rate,Confirm HSN
+Trial pack,Channel deduction,0.38,0.32,0.25,share of ex-GST sales,Replace with signed terms
+Trial pack,Product cost,29,25,22,INR/pack,Replace with manufacturer quote
+Trial pack,Fulfilment and variable ops,4,3.5,3,INR/pack,Planning assumption
+Trial pack,Variable marketing and samples,5,3.5,2,INR/pack,Planning assumption
+Core pack,MRP,149,149,149,INR,Planning assumption
+Core pack,Consumer discount,0.10,0.05,0,share of MRP,Planning assumption
+Core pack,GST,0.12,0.12,0.12,rate,Confirm HSN
+Core pack,Channel deduction,0.38,0.30,0.25,share of ex-GST sales,Replace with signed terms
+Core pack,Product cost,66,57.5,50,INR/pack,Replace with manufacturer quote
+Core pack,Fulfilment and variable ops,7,6,5,INR/pack,Planning assumption
+Core pack,Variable marketing and samples,10,7,4,INR/pack,Planning assumption
+Pilot,Quick-commerce nodes at peak,40,60,80,nodes,Only after product and price gates
+Pilot,Median core packs per node per week,3,6,9,packs,Management scenario
+Pilot,8-week repeat,0.12,0.20,0.28,share,Management scenario
+Pilot,Fixed operating cost,300000,250000,220000,INR/month,Lean pilot team and services
+
