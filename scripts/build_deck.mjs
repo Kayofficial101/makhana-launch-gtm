@@ -155,7 +155,7 @@ const p = Presentation.create({ slideSize: { width: W, height: H } });
     series: [{ name: "₹/kg", values: [500, 550, 500, 800, 900, 1250], line: { fill: C.green, width: 3 }, marker: { symbol: "circle", size: 8 } }],
     hasLegend: false,
     yAxis: { minimumScale: 0, maximumScale: 1400, majorUnit: 200, numberFormatCode: "₹0" },
-    dataLabels: { showValue: true, position: "above" },
+    dataLabels: { showValue: true, position: "top" },
     chartFill: C.white,
     plotAreaFill: C.white,
   });
@@ -265,7 +265,7 @@ const p = Presentation.create({ slideSize: { width: W, height: H } });
   }
   rect(s, 54, 622, 1100, 34, C.paleAmber);
   addText(s, "D2C is for bundles and learning. It is not an assumed migration away from quick commerce.", 76, 629, 1060, 22, 17, { bold: true });
-  notes(s, ["https://b.zmtcdn.com/investor-relations/Eternal_Annual_Report_2024-25.pdf", "https://www.swiggy.com/corporate/wp-content/uploads/2025/07/Annual-Report-FY-2024-25.pdf"], "Channel roles are the author's recommendation. Brand-specific trade terms are not public.");
+  notes(s, ["https://b.zmtcdn.com/investor-relations/Eternal_Annual_Report_2024-25.pdf", "https://www.swiggy.com/corporate/wp-content/uploads/2025/07/Swiggy-Annual-Report-FY-2024-25.pdf"], "Channel roles are the author's recommendation. Brand-specific trade terms are not public.");
 }
 
 // 9 Conversion and recovery
@@ -400,7 +400,7 @@ const p = Presentation.create({ slideSize: { width: W, height: H } });
     hasLegend: false,
     barOptions: { direction: "bar", grouping: "clustered", gapWidth: 65 },
     xAxis: { minimumScale: 0, maximumScale: 9, majorUnit: 1 },
-    dataLabels: { showValue: true, position: "outsideEnd" },
+    dataLabels: { showValue: true, position: "outEnd" },
     chartFill: C.white,
     plotAreaFill: C.white,
   });

@@ -233,7 +233,7 @@ That changes the order of work. Taste and price come before reach. A narrow city
 - [FSSAI, Labelling and Display Regulations compendium](https://www.fssai.gov.in/upload/uploadfiles/files/Comp_Labelling%20Display_Version%20VII_03042025.pdf)
 - [FSSAI, Advertising and Claims Regulations compendium](https://www.fssai.gov.in/upload/uploadfiles/files/Compendium_Advertising_Claims_Regulations_04_10_2022.pdf)
 - [Eternal FY25 Annual Report](https://b.zmtcdn.com/investor-relations/Eternal_Annual_Report_2024-25.pdf)
-- [Swiggy FY25 Annual Report](https://www.swiggy.com/corporate/wp-content/uploads/2025/07/Annual-Report-FY-2024-25.pdf)
+- [Swiggy FY25 Annual Report](https://www.swiggy.com/corporate/wp-content/uploads/2025/07/Swiggy-Annual-Report-FY-2024-25.pdf)
 - [McKinsey, Agile innovation in consumer goods](https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/agile-innovation-how-to-create-far-more-value)
 
 Every source, access date and limitation is recorded in [source-ledger.csv](research/source-ledger.csv).
